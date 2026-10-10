@@ -12,7 +12,7 @@ This is a simple wallpaper that's so incredibly lightweight that even typing in 
 
 This method works with any HTML file you want to use, even if it’s not mine! Just follow these simple steps:
 
-1. **Download** the folder containing the HTML file from this repository.
+1. **Download** the HTML file from this repository.
 2. **Open** a wallpaper app like *Lively Wallpaper* or *Wallpaper Engine*.
 3. **Import:** Look for the feature to import an HTML file from your computer and select the downloaded file.
 4. **Activate it** and... That’s it! You’ll have the wallpaper up and running.
