@@ -1,6 +1,6 @@
 <img width="2296" height="1292" alt="Rubik Cube - Personal - Microsoft_ Edge 2026-10-09 22-01-45 (online-video-cutter com)" src="https://github.com/user-attachments/assets/9f2b3d12-d4e8-4fd3-846b-21f8c1773846" />
 
-# 🧊 Interactive Rubik's & SGI Style Wallpaper
+#  Interactive Rubik's & SGI Style Wallpaper
 
 Hi! Do you like Rubik's Cubes, the SGI style, and interactive wallpapers? Yes? Then you're going to love this!
 
@@ -8,7 +8,7 @@ This is a simple wallpaper that's so incredibly lightweight that even typing in 
 
 ---
 
-## 🚀 How to Set It Up
+##  How to Set It Up
 
 This method works with any HTML file you want to use, even if it’s not mine! Just follow these simple steps:
 
@@ -19,7 +19,13 @@ This method works with any HTML file you want to use, even if it’s not mine! J
 
 ---
 
-## 📝 Notes & Credits
+## Try it now here!
+
+https://fingo2014.github.io/SGI-Styled-Rubiks-Cube-Wallpaper/
+
+---
+
+##  Notes & Credits
 * **Compatibility:** Works flawlessly on major wallpaper software that supports HTML web views.
 * **First Project:** Thanks for checking out my very first GitHub repository! Feedback is always welcome.
 
