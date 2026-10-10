@@ -1,3 +1,5 @@
+<img width="2296" height="1292" alt="Rubik Cube - Personal - Microsoft_ Edge 2026-10-09 22-01-45 (online-video-cutter com)" src="https://github.com/user-attachments/assets/9f2b3d12-d4e8-4fd3-846b-21f8c1773846" />
+
 # 🧊 Interactive Rubik's & SGI Style Wallpaper
 
 Hi! Do you like Rubik's Cubes, the SGI style, and interactive wallpapers? Yes? Then you're going to love this!
