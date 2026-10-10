@@ -2,7 +2,7 @@
 
 Hi! Do you like Rubik's Cubes, the SGI style, and interactive wallpapers? Yes? Then you're going to love this!
 
-This is a simple wallpaper that's so incredibly lightweight that even typing in Notepad would be slower than this! 😉 Just kidding, but I'd love for you to try it out, since this is the first thing I'm publishing on GitHub.
+This is a simple wallpaper that's so incredibly lightweight that even typing in Notepad would be slower than this! Just kidding, but I'd love for you to try it out, since this is the first thing I'm publishing on GitHub.
 
 ---
 
